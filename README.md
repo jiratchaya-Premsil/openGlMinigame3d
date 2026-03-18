@@ -1,4 +1,9 @@
 # openGlMinigame3d
+
+
+https://github.com/user-attachments/assets/593073f4-3d75-4924-8e09-d641b8f5fe2e
+
+
 makeing game where player control cat with WASD to move the cat <br>
 
 <img width="646" height="661" alt="image" src="https://github.com/user-attachments/assets/089f3522-fb93-4b50-ac72-b834027e6347" /> <br>
